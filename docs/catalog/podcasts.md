@@ -5,19 +5,19 @@ Podcasts suit the commute and the gym, and the ones listed here cover AI develop
 <!-- resources: type=podcast -->
 ### [Everyday AI](https://www.youreverydayai.com/)
 
-**Podcast**, Jordan Wilson. A daily podcast that brings AI news to listeners and is trusted by more than 310,500 business leaders each week, suited to students who want a short regular briefing on business AI. *Last verified 2026-09-07.*
+**Podcast**, Jordan Wilson. A daily podcast that brings AI news to listeners and is trusted by more than 310,500 business leaders each week, suited to students who want a short regular briefing on business AI. Featured in [Module 7](../path/module-07.md). *Last verified 2026-09-07.*
 
 ### [Latent Space: The AI Engineer Podcast](https://www.latent.space/about)
 
-**Podcast**, swyx, with rotating cohosts. Made by and for the rising class of AI engineers, this show covers the business and the technology of AI together, and it has crossed 200,000 subscribers and 10 million viewers across all its channels. *Last verified 2026-09-07.*
+**Podcast**, swyx, with rotating cohosts. Made by and for the rising class of AI engineers, this show covers the business and the technology of AI together, and it has crossed 200,000 subscribers and 10 million viewers across all its channels. Featured in [Module 4](../path/module-04.md). *Last verified 2026-09-07.*
 
 ### [Leveraging AI](https://multiplai.ai/podcast/)
 
-**Podcast**, Isar Meitis. Practical AI tips for non-technical business people from a serial entrepreneur, released twice each week as an implementation guide on Tuesdays and an AI news summary on Saturdays. *Last verified 2026-09-07.*
+**Podcast**, Isar Meitis. Practical AI tips for non-technical business people from a serial entrepreneur, released twice each week as an implementation guide on Tuesdays and an AI news summary on Saturdays. Featured in [Module 7](../path/module-07.md). *Last verified 2026-09-07.*
 
 ### [Practical AI](https://practicalai.show/)
 
-**Podcast**, Daniel Whitenack and Chris Benson. A show aimed at technology professionals, business people, students, and enthusiasts alongside expert guests, focused on productive implementations and real-world scenarios that make artificial intelligence practical, productive, and accessible to everyone. *Last verified 2026-09-07.*
+**Podcast**, Daniel Whitenack and Chris Benson. A show aimed at technology professionals, business people, students, and enthusiasts alongside expert guests, focused on productive implementations and real-world scenarios that make artificial intelligence practical, productive, and accessible to everyone. Featured in [Module 7](../path/module-07.md). *Last verified 2026-09-07.*
 
 ### [The AI Daily Brief](https://www.aidailybrief.ai/)
 
@@ -29,5 +29,5 @@ Podcasts suit the commute and the gym, and the ones listed here cover AI develop
 
 ### [The TWIML AI Podcast](https://twimlai.com/)
 
-**Podcast**, Sam Charrington. An inside look at the present and future of machine learning and AI technologies for practitioners, innovators, and leaders, useful to students who want a practitioner-level view of where the field stands. *Last verified 2026-09-07.*
+**Podcast**, Sam Charrington. An inside look at the present and future of machine learning and AI technologies for practitioners, innovators, and leaders, useful to students who want a practitioner-level view of where the field stands. Featured in [Module 6](../path/module-06.md). *Last verified 2026-09-07.*
 <!-- /resources -->

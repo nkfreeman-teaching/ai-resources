@@ -95,7 +95,8 @@ entries:
   creator: Jordan Wilson
   annotation: A daily podcast that brings AI news to listeners and is trusted by more than 310,500 business
     leaders each week, suited to students who want a short regular briefing on business AI.
-  modules: []
+  modules:
+  - 7
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -144,7 +145,8 @@ entries:
   annotation: Made by and for the rising class of AI engineers, this show covers the business and the
     technology of AI together, and it has crossed 200,000 subscribers and 10 million viewers across all
     its channels.
-  modules: []
+  modules:
+  - 4
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -186,7 +188,8 @@ entries:
   creator: Isar Meitis
   annotation: Practical AI tips for non-technical business people from a serial entrepreneur, released
     twice each week as an implementation guide on Tuesdays and an AI news summary on Saturdays.
-  modules: []
+  modules:
+  - 7
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -237,7 +240,8 @@ entries:
   annotation: A show aimed at technology professionals, business people, students, and enthusiasts alongside
     expert guests, focused on productive implementations and real-world scenarios that make artificial
     intelligence practical, productive, and accessible to everyone.
-  modules: []
+  modules:
+  - 7
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -288,7 +292,8 @@ entries:
   annotation: An inside look at the present and future of machine learning and AI technologies for practitioners,
     innovators, and leaders, useful to students who want a practitioner-level view of where the field
     stands.
-  modules: []
+  modules:
+  - 6
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -325,7 +330,9 @@ entries:
   annotation: A former leader of Amazon Web Services' Global Machine Learning for Startups and Venture
     Capital organization who now advises and trains Fortune 500 companies, and who offers The AI Fast
     Track, a free five-day email course taught using Claude.
-  modules: []
+  modules:
+  - 5
+  - 7
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -378,7 +385,8 @@ entries:
   annotation: A Wharton professor writes this research-based newsletter on the implications of AI for
     work, education, and life, drafting every post himself and pointing readers to free AI resources and
     prompts compiled at Wharton's Generative AI Labs.
-  modules: []
+  modules:
+  - 7
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -430,7 +438,9 @@ entries:
   creator: Matt Pocock
   annotation: Tutorials and courses on working effectively with AI coding agents, i.e., tools that read,
     write, and run code on a developer's behalf, including how to build skills for those agents.
-  modules: []
+  modules:
+  - 2
+  - 4
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -465,7 +475,8 @@ entries:
   creator: Sebastian Raschka
   annotation: A newsletter on machine learning and AI research read by more than 200,000 researchers and
     practitioners, written by the author of the book Build a Large Language Model (From Scratch).
-  modules: []
+  modules:
+  - 6
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -508,7 +519,8 @@ entries:
   annotation: A weblog covering programming and web development since 2002, with a newsletter on AI, large
     language models (LLMs), data science, SQLite, and Python, written without compensation for covering
     particular topics.
-  modules: []
+  modules:
+  - 6
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -563,7 +575,8 @@ entries:
   annotation: Anyone, including students, can begin on the general free plan, which is not a student-specific
     offer, and a campus newsletter carries early access to events and exclusive discounts through on-campus
     and online promotions.
-  modules: []
+  modules:
+  - 4
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -611,7 +624,8 @@ entries:
   annotation: Available at no cost to verified students, the plan includes unlimited code completions
     plus an allowance of GitHub AI Credits, with chat and agent usage limited and restricted to models
     available through auto model selection.
-  modules: []
+  modules:
+  - 4
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -694,7 +708,8 @@ entries:
   creator: Google
   annotation: Free access to computing resources including GPUs and TPUs for machine learning projects,
     with the ability to generate, explain, and debug code in natural language in real time.
-  modules: []
+  modules:
+  - 5
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -736,7 +751,8 @@ entries:
   annotation: A notebook tool that works from a student's own uploaded material, up to 50 sources per
     notebook on the free tier, and can write and execute code for data analysis, although code execution
     is not stated to be free.
-  modules: []
+  modules:
+  - 3
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -785,7 +801,8 @@ entries:
   annotation: Free for a student to sign up for, with an AI Grader that returns feedback based on a course
     syllabus plus an estimated grade, although the students page does not state which plan includes that
     grader.
-  modules: []
+  modules:
+  - 3
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -866,7 +883,8 @@ entries:
   annotation: Thirteen lessons and one quiz taking about 2.5 hours to complete, marked free to access
     in the course page's structured data, which gives students a first structured pass at working with
     Claude.
-  modules: []
+  modules:
+  - 2
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -912,7 +930,9 @@ entries:
   creator: DeepLearning.AI (with OpenAI)
   annotation: Nine video lessons on effective prompting and on using large language models to summarize,
     infer, transform, and expand text, free for a limited time during the learning platform beta.
-  modules: []
+  modules:
+  - 2
+  - 3
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -962,7 +982,8 @@ entries:
   creator: Microsoft Cloud Advocates
   annotation: Twenty-one lessons on building generative AI applications, each covering its own topic and
     open to study in any order, beginning with what generative AI is and how large language models work.
-  modules: []
+  modules:
+  - 5
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -1011,7 +1032,8 @@ entries:
   annotation: Sign-up is free and open to anyone, and the courses teach practical AI skills through hands-on
     learning about how AI works and how to build agents and workflows, with course completion certificates
     available.
-  modules: []
+  modules:
+  - 5
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -1061,7 +1083,8 @@ entries:
   annotation: Guidance on telling Claude exactly what output is wanted, stating what that output should
     include rather than only what task to perform, and asking explicitly when a full and detailed answer
     is needed.
-  modules: []
+  modules:
+  - 2
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -1102,7 +1125,8 @@ entries:
   creator: DeepLearning.AI
   annotation: A publication covering what matters in AI right now, delivering weekly AI news and insights
     by email to students who prefer an edited summary over a continuous feed.
-  modules: []
+  modules:
+  - 6
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -1145,7 +1169,9 @@ entries:
   annotation: Advice on writing prompts in natural language as complete sentences addressed to another
     person, noting that the most fruitful prompts average around 21 words of relevant context while typical
     attempts run under nine.
-  modules: []
+  modules:
+  - 2
+  - 3
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'
@@ -1189,7 +1215,8 @@ entries:
   creator: TLDR
   annotation: A free daily email sent every weekday covering the most interesting AI stories and breakthroughs,
     which gives students a short regular scan of developments at no cost.
-  modules: []
+  modules:
+  - 6
   status: active
   first_added: '2026-09-07'
   last_verified: '2026-09-07'

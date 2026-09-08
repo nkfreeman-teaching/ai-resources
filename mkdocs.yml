@@ -38,6 +38,12 @@ nav:
   - Learning Path:
     - Overview: path/index.md
     - "1. Agentic Tools and Student Offers": path/module-01.md
+    - "2. Skills and Structured Prompting": path/module-02.md
+    - "3. Working with Context": path/module-03.md
+    - "4. Loops and Harness Engineering": path/module-04.md
+    - "5. Building a Small Agent End to End": path/module-05.md
+    - "6. Evaluation and Staying Current": path/module-06.md
+    - "7. The Portfolio and the Job Market": path/module-07.md
   - Catalog:
     - Podcasts: catalog/podcasts.md
     - People and Newsletters: catalog/people.md

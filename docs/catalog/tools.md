@@ -5,15 +5,15 @@ Several vendors offer students free or discounted access to paid AI tools, and t
 <!-- resources: type=tool -->
 ### [Cursor](https://cursor.com/students)
 
-**Tool**, Anysphere (Cursor). Anyone, including students, can begin on the general free plan, which is not a student-specific offer, and a campus newsletter carries early access to events and exclusive discounts through on-campus and online promotions. *Last verified 2026-09-07.*
+**Tool**, Anysphere (Cursor). Anyone, including students, can begin on the general free plan, which is not a student-specific offer, and a campus newsletter carries early access to events and exclusive discounts through on-campus and online promotions. Featured in [Module 4](../path/module-04.md). *Last verified 2026-09-07.*
 
 ### [Gemini Notebook (formerly NotebookLM)](https://notebook.google/)
 
-**Tool**, Google. A notebook tool that works from a student's own uploaded material, up to 50 sources per notebook on the free tier, and can write and execute code for data analysis, although code execution is not stated to be free. *Last verified 2026-09-07.*
+**Tool**, Google. A notebook tool that works from a student's own uploaded material, up to 50 sources per notebook on the free tier, and can write and execute code for data analysis, although code execution is not stated to be free. Featured in [Module 3](../path/module-03.md). *Last verified 2026-09-07.*
 
 ### [GitHub Copilot Student](https://education.github.com/pack)
 
-**Tool**, GitHub (Microsoft). Available at no cost to verified students, the plan includes unlimited code completions plus an allowance of GitHub AI Credits, with chat and agent usage limited and restricted to models available through auto model selection. *Last verified 2026-09-07.*
+**Tool**, GitHub (Microsoft). Available at no cost to verified students, the plan includes unlimited code completions plus an allowance of GitHub AI Credits, with chat and agent usage limited and restricted to models available through auto model selection. Featured in [Module 4](../path/module-04.md). *Last verified 2026-09-07.*
 
 ### [Google AI Pro for students](https://gemini.google/students/)
 
@@ -21,9 +21,9 @@ Several vendors offer students free or discounted access to paid AI tools, and t
 
 ### [Google Colab](https://colab.research.google.com/)
 
-**Tool**, Google. Free access to computing resources including GPUs and TPUs for machine learning projects, with the ability to generate, explain, and debug code in natural language in real time. *Last verified 2026-09-07.*
+**Tool**, Google. Free access to computing resources including GPUs and TPUs for machine learning projects, with the ability to generate, explain, and debug code in natural language in real time. Featured in [Module 5](../path/module-05.md). *Last verified 2026-09-07.*
 
 ### [Grammarly for Students](https://www.grammarly.com/students)
 
-**Tool**, Grammarly. Free for a student to sign up for, with an AI Grader that returns feedback based on a course syllabus plus an estimated grade, although the students page does not state which plan includes that grader. *Last verified 2026-09-07.*
+**Tool**, Grammarly. Free for a student to sign up for, with an AI Grader that returns feedback based on a course syllabus plus an estimated grade, although the students page does not state which plan includes that grader. Featured in [Module 3](../path/module-03.md). *Last verified 2026-09-07.*
 <!-- /resources -->
