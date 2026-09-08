@@ -1,0 +1,1225 @@
+version: 1
+entries:
+- id: ai-daily-brief
+  type: podcast
+  title: The AI Daily Brief
+  url: https://www.aidailybrief.ai/
+  creator: Nathaniel Whittemore
+  annotation: A podcast publishing AI news and analysis every day, giving students a regular briefing
+    on how the field is moving without a large time commitment.
+  modules:
+  - 1
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: The AI Daily Brief is hosted by Nathaniel Whittemore.
+    source_url: https://www.aidailybrief.ai/e/2026-09-07
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Episode aired September 7, 2026 · Host Nathaniel Whittemore
+  - text: The AI Daily Brief publishes AI news and analysis every day.
+    source_url: https://www.aidailybrief.ai/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: AI news & analysis, every day
+  url_check:
+    status: 200
+    final_url: https://www.aidailybrief.ai/
+    checked: '2026-09-07'
+  researcher:
+    model: null
+    date: '2026-09-07'
+    origin: owner seed
+  skeptic:
+    verdict: Signed
+    reason: The show's own site names the host as Nathaniel Whittemore on the 2026-09-07 episode credits
+      and describes itself as "AI news & analysis, every day".
+    model: opus
+    date: '2026-09-07'
+  owner_decision:
+    date: '2026-09-07'
+    decision: entry rerun after two wording refutations
+    reason: Owner chose to rerun; signed on the rerun with the source's own wording.
+- id: cognitive-revolution-podcast
+  type: podcast
+  title: The Cognitive Revolution
+  url: https://www.cognitiverevolution.ai/
+  creator: Nathan Labenz
+  annotation: A weekly podcast of interviews with AI innovators about the transformative near-term impact
+    of AI, with in-depth expert conversations and AI Scouting Reports on critical topics for students
+    tracking where the technology is heading.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: The show is a weekly podcast where Nathan Labenz interviews AI innovators about the transformative
+      near-term impact of AI.
+    source_url: https://www.cognitiverevolution.ai/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: A weekly podcast where host Nathan Labenz interviews AI innovators, diving into the transformative
+      impact AI will have in the near future.
+  - text: The site invites listeners to subscribe for in-depth expert interviews and "AI Scouting Reports"
+      on critical topics.
+    source_url: https://www.cognitiverevolution.ai/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Subscribe for in-depth expert interviews & 'AI Scouting Reports' on critical topics.
+  url_check:
+    status: 200
+    final_url: https://www.cognitiverevolution.ai/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: best AI podcast 2026 for business professionals practical AI tools'
+  skeptic:
+    verdict: Signed
+    reason: Both claims appear verbatim on the show's own homepage, and its feed shows a post dated 2026-09-01,
+      six days before today.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: everyday-ai-podcast
+  type: podcast
+  title: Everyday AI
+  url: https://www.youreverydayai.com/
+  creator: Jordan Wilson
+  annotation: A daily podcast that brings AI news to listeners and is trusted by more than 310,500 business
+    leaders each week, suited to students who want a short regular briefing on business AI.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: The site describes Everyday AI as a daily podcast that brings AI news to listeners.
+    source_url: https://www.youreverydayai.com/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Everyday AI is a daily podcast that brings the AI news to you and also gives you access to
+      a newsletter so you can catch up later.
+  - text: Jordan Wilson hosts the Everyday AI Podcast.
+    source_url: https://www.youreverydayai.com/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: The Everyday AI Podcast, hosted by Jordan Wilson, has featured a diverse range of influential
+      guests.
+  - text: The site states that more than 310,500 business leaders trust Everyday AI each week.
+    source_url: https://www.youreverydayai.com/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Join more than 310,500+ business leaders who trust Everyday AI each week to stay ahead.
+  url_check:
+    status: 200
+    final_url: https://www.youreverydayai.com/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: best AI podcast 2026 for business professionals practical AI tools'
+  skeptic:
+    verdict: Signed
+    reason: The site's own homepage carries the daily-podcast description, names Jordan Wilson as host,
+      and states the 310,500 figure; the one finding below concerns publication recency, not claim accuracy.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: latent-space-podcast
+  type: podcast
+  title: 'Latent Space: The AI Engineer Podcast'
+  url: https://www.latent.space/about
+  creator: swyx, with rotating cohosts
+  annotation: Made by and for the rising class of AI engineers, this show covers the business and the
+    technology of AI together, and it has crossed 200,000 subscribers and 10 million viewers across all
+    its channels.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Latent Space describes itself as made by and for the rising class of AI Engineers, covering
+      the business and technology of AI.
+    source_url: https://www.latent.space/about
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: by and for the rising class of AI Engineers, focusing on the business and technology of this
+      new AI summer
+  - text: The site states it has crossed 200,000 subscribers and 10 million viewers across all its channels.
+    source_url: https://www.latent.space/about
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: crossed 200k subs/10m viewers across all channels
+  url_check:
+    status: 200
+    final_url: https://www.latent.space/about
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Latent Space podcast AI engineering newsletter swyx'
+  skeptic:
+    verdict: Signed
+    reason: Both claims are quoted from the publication's own about page, which also confirms swyx as
+      host with rotating cohosts.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: leveraging-ai-podcast
+  type: podcast
+  title: Leveraging AI
+  url: https://multiplai.ai/podcast/
+  creator: Isar Meitis
+  annotation: Practical AI tips for non-technical business people from a serial entrepreneur, released
+    twice each week as an implementation guide on Tuesdays and an AI news summary on Saturdays.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: The podcast is described as sharing practical AI tips for non-technical business people.
+    source_url: https://multiplai.ai/podcast/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: you would love Leveraging AI, where we share practical AI tips for non-techie business people
+      like you
+  - text: Isar Meitis, a serial entrepreneur, hosts the show.
+    source_url: https://multiplai.ai/podcast/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: I'm Isar Meitis, a serial entrepreneur and in order to provide you with such knowledge, I will
+      host practitioners, experts, and business leaders
+  - text: The show releases two episodes each week, an implementation guide on Tuesdays and an AI news
+      summary on Saturdays.
+    source_url: https://multiplai.ai/podcast/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: 'We release 2 episodes each week: - Step-by-step implementation guides [...] (Tuesdays) - A
+      summary of the most important AI news of the week [...] (Saturdays)'
+  url_check:
+    status: 200
+    final_url: https://multiplai.ai/podcast/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Leveraging AI podcast Isar Meitis business professionals'
+  skeptic:
+    verdict: Signed
+    reason: All three claims are stated verbatim on the show's own podcast page, and the most recent dated
+      episode (2026-08-21) is well inside 90 days of today.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: practical-ai-podcast
+  type: podcast
+  title: Practical AI
+  url: https://practicalai.show/
+  creator: Daniel Whitenack and Chris Benson
+  annotation: A show aimed at technology professionals, business people, students, and enthusiasts alongside
+    expert guests, focused on productive implementations and real-world scenarios that make artificial
+    intelligence practical, productive, and accessible to everyone.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Practical AI describes itself as making artificial intelligence practical, productive, and accessible
+      to everyone.
+    source_url: https://practicalai.show/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Making artificial intelligence practical, productive & accessible to everyone.
+  - text: The show is aimed at technology professionals, business people, students, and enthusiasts alongside
+      expert guests.
+    source_url: https://practicalai.show/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: technology professionals, business people, students, enthusiasts, and expert guests
+  - text: The show states its focus is on productive implementations and real-world scenarios accessible
+      to everyone.
+    source_url: https://practicalai.show/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: The focus is on productive implementations and real-world scenarios that are accessible to
+      everyone.
+  url_check:
+    status: 200
+    final_url: https://practicalai.show/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: best AI podcast 2026 for business professionals practical AI tools'
+  skeptic:
+    verdict: Signed
+    reason: All three claims are quoted almost verbatim from the show's own homepage, and episode 370
+      on the same domain names both hosts in full.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: twiml-ai-podcast
+  type: podcast
+  title: The TWIML AI Podcast
+  url: https://twimlai.com/
+  creator: Sam Charrington
+  annotation: An inside look at the present and future of machine learning and AI technologies for practitioners,
+    innovators, and leaders, useful to students who want a practitioner-level view of where the field
+    stands.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: TWIML describes its content as giving practitioners, innovators, and leaders an inside look
+      at the present and future of ML and AI technologies.
+    source_url: https://twimlai.com/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Intelligent content that gives practitioners, innovators and leaders an inside look at the
+      present and future of ML & AI technologies.
+  url_check:
+    status: 200
+    final_url: https://twimlai.com/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: TWIML AI podcast machine learning practitioners interview'
+  skeptic:
+    verdict: Signed
+    reason: The description claim is quoted verbatim from the homepage, the site's About page confirms
+      Sam Charrington as host, and the latest episode is dated September 1, 2026.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: allie-k-miller
+  type: person
+  title: Allie K. Miller
+  url: https://www.alliekmiller.com/
+  creator: Allie K. Miller
+  annotation: A former leader of Amazon Web Services' Global Machine Learning for Startups and Venture
+    Capital organization who now advises and trains Fortune 500 companies, and who offers The AI Fast
+    Track, a free five-day email course taught using Claude.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Allie K. Miller previously led Amazon Web Services' Global Machine Learning for Startups and
+      Venture Capital organization and now works as an AI advisor and investor who trains and advises
+      Fortune 500 companies.
+    source_url: https://www.alliekmiller.com/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Previously, Allie launched and built a multi-billion dollar business at Amazon as the Global
+      Head of Machine Learning for Startups and Venture Capital at AWS
+  - text: Miller offers The AI Fast Track, a free five-day email course that moves from AI basics to building
+      tools without coding, taught using Claude.
+    source_url: https://www.alliekmiller.com/the-ai-fast-track
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: In this 5-day email course, learn how to add Claude to your toolbox and expand what AI can
+      do for you (no coding required)... IT'S FREE!
+  - text: Miller holds an MBA from The Wharton School and a BA in Cognitive Science from Dartmouth College.
+    source_url: https://www.alliekmiller.com/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Allie holds a double-major MBA from The Wharton School and a BA in Cognitive Science... from
+      Dartmouth College.
+  url_check:
+    status: 200
+    final_url: https://www.alliekmiller.com/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Allie K. Miller AI newsletter business'
+  skeptic:
+    verdict: Signed
+    reason: All three claims, including the Claude specific in the course claim, are stated on alliekmiller.com,
+      though the Claude detail lives on the course page rather than the cited home page.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: ethan-mollick
+  type: person
+  title: Ethan Mollick (One Useful Thing)
+  url: https://www.oneusefulthing.org/
+  creator: Ethan Mollick
+  annotation: A Wharton professor writes this research-based newsletter on the implications of AI for
+    work, education, and life, drafting every post himself and pointing readers to free AI resources and
+    prompts compiled at Wharton's Generative AI Labs.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Ethan Mollick, a Wharton professor, writes One Useful Thing, a research-based newsletter on
+      the implications of AI for work, education, and life.
+    source_url: https://www.oneusefulthing.org/about
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: This blog/newsletter provides a research-based view on the implications of AI, by me, Prof.
+      Ethan Mollick
+  - text: Mollick writes every post of One Useful Thing himself, only asking for AI feedback after finishing
+      a complete draft.
+    source_url: https://www.oneusefulthing.org/about
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: I do write every post myself, only asking for AI feedback after I have finished a complete
+      draft.
+  - text: One Useful Thing points readers to free AI resources and prompts compiled at Wharton's Generative
+      AI Labs.
+    source_url: https://www.oneusefulthing.org/about
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Free resources and prompts are compiled at the Generative AI Labs at Wharton.
+  url_check:
+    status: 200
+    final_url: https://www.oneusefulthing.org/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: best AI newsletters for business professionals 2026'
+  skeptic:
+    verdict: Signed
+    reason: Every fact checks out on Mollick's own about page, which states the research-based framing
+      verbatim; the Wharton profile cited for claim one confirms the professorship but never names the
+      newsletter.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: matt-pocock
+  type: person
+  title: Matt Pocock (AI Hero)
+  url: https://www.aihero.dev/
+  creator: Matt Pocock
+  annotation: Tutorials and courses on working effectively with AI coding agents, i.e., tools that read,
+    write, and run code on a developer's behalf, including how to build skills for those agents.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Matt Pocock publishes tutorials and courses on working effectively with AI coding agents, including
+      how to build skills for them.
+    source_url: https://www.aihero.dev/skills
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: The /writing-for-agents Skill How to write skills and other documents agents read.
+  url_check:
+    status: 200
+    final_url: https://www.aihero.dev/
+    checked: '2026-09-07'
+  researcher:
+    model: null
+    date: '2026-09-07'
+    origin: owner seed
+  skeptic:
+    verdict: Signed
+    reason: aihero.dev is bylined 'Real AI Engineering by Matt Pocock' and the cited skills page carries
+      both the courses and the skill-authoring content the claim describes.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: sebastian-raschka
+  type: person
+  title: Sebastian Raschka (Ahead of AI)
+  url: https://sebastianraschka.com/
+  creator: Sebastian Raschka
+  annotation: A newsletter on machine learning and AI research read by more than 200,000 researchers and
+    practitioners, written by the author of the book Build a Large Language Model (From Scratch).
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Sebastian Raschka writes the Ahead of AI newsletter, which focuses on machine learning and AI
+      research and is read by more than 200,000 researchers and practitioners.
+    source_url: https://magazine.sebastianraschka.com/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Ahead of AI focuses on machine learning and AI research and is read by more than 200,000 researchers
+      and practitioners who want to stay ahead in a rapidly evolving field.
+  - text: Sebastian Raschka is the author of the book Build a Large Language Model (From Scratch).
+    source_url: https://sebastianraschka.com/books/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Build a Large Language Model (From Scratch)
+  url_check:
+    status: 200
+    final_url: https://sebastianraschka.com/
+    checked: '2026-09-07'
+  researcher:
+    model: null
+    date: '2026-09-07'
+    origin: owner seed
+  skeptic:
+    verdict: Signed
+    reason: 'Both claims are stated verbatim on Raschka''s own domain: the newsletter''s 200,000-reader
+      line on magazine.sebastianraschka.com and the book on sebastianraschka.com/books.'
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: simon-willison
+  type: person
+  title: Simon Willison's Weblog
+  url: https://simonwillison.net/
+  creator: Simon Willison
+  annotation: A weblog covering programming and web development since 2002, with a newsletter on AI, large
+    language models (LLMs), data science, SQLite, and Python, written without compensation for covering
+    particular topics.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Simon Willison, the creator of the open source tool Datasette, has been blogging about web development
+      and programming since 2002.
+    source_url: https://simonwillison.net/about/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Simon Willison is the creator of Datasette, an open source tool for exploring and publishing
+      data ... has been blogging about web development and programming since 2002
+  - text: Willison's newsletter covers AI, LLMs, web engineering, open source, data science, Datasette,
+      SQLite, and Python.
+    source_url: https://simonw.substack.com/about
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: AI, LLMs, web engineering, open source, data science, Datasette, SQLite, Python and more
+  - text: Willison states he does not receive any compensation for writing about specific topics on his
+      blog, disclosing any change to that policy.
+    source_url: https://simonwillison.net/about/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: I do not receive any compensation for writing about specific topics on this blog. I plan to
+      continue this policy. If I ever change this I will disclose that
+  url_check:
+    status: 200
+    final_url: https://simonwillison.net/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Simon Willison AI blog LLM newsletter'
+  skeptic:
+    verdict: Signed
+    reason: All three claims are stated verbatim on Willison's own about page and his own Substack about
+      page, and the site header confirms identity as "Simon Willison's Weblog".
+    model: opus
+    date: '2026-09-07'
+  owner_decision:
+    date: '2026-09-07'
+    decision: entry rerun after two wording refutations
+    reason: Owner chose to rerun; signed on the rerun with the source's own wording.
+- id: cursor-ai-editor
+  type: tool
+  title: Cursor
+  url: https://cursor.com/students
+  creator: Anysphere (Cursor)
+  annotation: Anyone, including students, can begin on the general free plan, which is not a student-specific
+    offer, and a campus newsletter carries early access to events and exclusive discounts through on-campus
+    and online promotions.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Anyone, including students, can start using Cursor for free on its general free plan, which
+      is not a student-specific offer.
+    source_url: https://cursor.com/students
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Anyone can get started with Cursor for free.
+  - text: Cursor offers student promotions and discounts through on-campus and online events and a campus
+      newsletter, which students can join for early access to events and exclusive discounts.
+    source_url: https://cursor.com/students
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: look out for promotions at our on-campus and online events starting this fall ... early access
+      to upcoming events, exclusive discounts, and beginner guides
+  url_check:
+    status: 200
+    final_url: https://cursor.com/students
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Cursor AI code editor student discount'
+  skeptic:
+    verdict: Signed
+    reason: Cursor's own students page says "Anyone can get started with Cursor for free," which supports
+      both the general-free-plan claim and the promotions claim.
+    model: opus
+    date: '2026-09-07'
+  owner_decision:
+    date: '2026-09-07'
+    decision: keep on the Tools with Student Offers page
+    reason: Skeptic signed the entry but flagged that the free tier is the general free plan and campus
+      discounts are prospective; the annotation states both.
+- id: github-copilot-student
+  type: tool
+  title: GitHub Copilot Student
+  url: https://education.github.com/pack
+  creator: GitHub (Microsoft)
+  annotation: Available at no cost to verified students, the plan includes unlimited code completions
+    plus an allowance of GitHub AI Credits, with chat and agent usage limited and restricted to models
+    available through auto model selection.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: GitHub Copilot Student is available at no cost to verified students.
+    source_url: https://docs.github.com/en/copilot/get-started/plans
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Available to verified students. Get access to Copilot's features for free.
+  - text: The GitHub Copilot Student plan includes unlimited code completions plus an allowance of GitHub
+      AI Credits, with limited chat and agent usage, and chat and agent usage on the student plan is limited
+      to models available through auto model selection only.
+    source_url: https://education.github.com/pack
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: The plan includes unlimited code completions and an allowance of GitHub AI Credits, plus limited
+      chat and agent usage with models available through auto model selection only.
+  url_check:
+    status: 200
+    final_url: https://education.github.com/pack
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: GitHub Copilot free for students'
+  skeptic:
+    verdict: Signed
+    reason: Both claims are stated almost word for word on GitHub's own Student Developer Pack page and
+      on docs.github.com.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: google-ai-pro-students
+  type: tool
+  title: Google AI Pro for students
+  url: https://gemini.google/students/
+  creator: Google
+  annotation: U.S. college students aged 18 and older get one year of free access, with eligibility verified
+    yearly, a valid form of payment required at sign-up, automatic renewal at $19.99 per month unless
+    cancelled, and redemption required by December 31, 2026.
+  modules:
+  - 1
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Google offers U.S. college students ages 18 and older free access to the Google AI Pro plan
+      for one year, with eligibility verified each year, a valid form of payment required at sign-up,
+      automatic renewal at $19.99 per month unless cancelled, and redemption required by December 31,
+      2026.
+    source_url: https://gemini.google/students/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: '2026-12-31'
+    quote: eligible U.S. college students ages 18+ ... Eligibility must be verified each year to maintain
+      access ... Valid form of payment required at sign-up ... Redeem until December 31, 2026
+  url_check:
+    status: 200
+    final_url: https://gemini.google/students/
+    checked: '2026-09-07'
+  researcher:
+    model: null
+    date: '2026-09-07'
+    origin: owner seed
+  skeptic:
+    verdict: Signed
+    reason: The vendor's own student page states every specific in the claim, including the December 31,
+      2026 redemption deadline and the annual re-verification requirement.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: google-colab-ai
+  type: tool
+  title: Google Colab
+  url: https://colab.research.google.com/
+  creator: Google
+  annotation: Free access to computing resources including GPUs and TPUs for machine learning projects,
+    with the ability to generate, explain, and debug code in natural language in real time.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Google Colab gives free access to computing resources including GPUs and TPUs for machine learning
+      projects.
+    source_url: https://developers.google.com/colab
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Get free access to powerful computing resources, including GPUs and TPUs, to accelerate your
+      machine learning projects.
+  - text: Google Colab lets users generate, explain, and debug code in natural language in real time.
+    source_url: https://developers.google.com/colab
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Use natural language to generate, explain, and debug code in real time.
+  url_check:
+    status: 200
+    final_url: https://colab.research.google.com/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Google Colab Gemini AI code assistance free'
+  skeptic:
+    verdict: Signed
+    reason: Both claims appear verbatim on Google's own Colab product page at developers.google.com/colab.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: google-notebooklm
+  type: tool
+  title: Gemini Notebook (formerly NotebookLM)
+  url: https://notebook.google/
+  creator: Google
+  annotation: A notebook tool that works from a student's own uploaded material, up to 50 sources per
+    notebook on the free tier, and can write and execute code for data analysis, although code execution
+    is not stated to be free.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Free-tier users of NotebookLM (now Gemini Notebook) can include up to 50 sources per notebook.
+    source_url: https://support.google.com/notebooklm/answer/16215270
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: You can include up to 50 sources (for Free users).
+  - text: Gemini Notebook can write and execute code to perform data analysis grounded in the user's own
+      uploaded sources; code execution is available to Google AI Ultra users and Workspace business customers
+      with AI Ultra Access and AI Expanded Access, was rolling out to Pro users on the web as of July
+      2026, and is not stated to be part of the free tier.
+    source_url: https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: writes and executes code natively, helping you conduct complex data analysis grounded in your
+      sources ... It will roll out to all Pro users on the web over the coming weeks
+  url_check:
+    status: 200
+    final_url: https://notebook.google/
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: NotebookLM Gemini Notebook free pricing sources'
+  skeptic:
+    verdict: Signed
+    reason: The free-tier 50-source limit is stated verbatim in Google's own help article for adding sources
+      to a notebook, and the code-execution tiers are listed in Google's own July 16, 2026 announcement
+      post.
+    model: opus
+    date: '2026-09-07'
+  owner_decision:
+    date: '2026-09-07'
+    decision: entry rerun after two wording refutations
+    reason: Owner chose to rerun; signed on the rerun with the source's own wording.
+- id: grammarly-students
+  type: tool
+  title: Grammarly for Students
+  url: https://www.grammarly.com/students
+  creator: Grammarly
+  annotation: Free for a student to sign up for, with an AI Grader that returns feedback based on a course
+    syllabus plus an estimated grade, although the students page does not state which plan includes that
+    grader.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Grammarly is free to sign up for as a student.
+    source_url: https://www.grammarly.com/students
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Sign up. It's free
+  - text: Grammarly's AI Grader gives students feedback based on their syllabus plus an estimated grade,
+      although the students page does not state which plan includes the AI Grader.
+    source_url: https://www.grammarly.com/students
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Get feedback based on your syllabus, plus an estimated grade to see where you stand.
+  url_check:
+    status: 200
+    final_url: https://www.grammarly.com/students
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Grammarly free student discount AI'
+  skeptic:
+    verdict: Signed
+    reason: Both claims are quoted from Grammarly's own students page, and the second claim already carries
+      the caveat that the page names no plan.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: openai-chatgpt-plus-students
+  type: tool
+  title: ChatGPT Plus for students
+  url: https://chatgpt.com/students
+  creator: OpenAI
+  annotation: null
+  modules:
+  - 1
+  status: active
+  first_added: '2026-09-07'
+  last_verified: null
+  retired: null
+  claims:
+  - text: OpenAI offers eligible students free access to ChatGPT Plus for four months.
+    source_url: https://chatgpt.com/students
+    verdict: Unverifiable
+    checked: '2026-09-07'
+    expires: null
+    quote: null
+  url_check:
+    status: 403
+    final_url: https://chatgpt.com/students
+    checked: '2026-09-07'
+  researcher:
+    model: null
+    date: '2026-09-07'
+    origin: owner seed
+  skeptic:
+    verdict: Unverifiable
+    reason: Neither https://chatgpt.com/students nor OpenAI's own help-center article for the student
+      offer could be read in this run, so the "four months" specific is uncertified.
+    model: opus
+    date: '2026-09-07'
+  owner_decision:
+    date: '2026-09-07'
+    decision: keep active but unsigned; removed from the Module 1 block; retry at the next refresh
+    reason: chatgpt.com, openai.com, and help.openai.com returned HTTP 403 to the liveness script, the
+      Haiku verifier, the main session, and the skeptic on 2026-09-07, so no claim could be read. Owner
+      declined attestation from a browser.
+- id: anthropic-academy-claude-101
+  type: course
+  title: Claude 101 (Anthropic Academy)
+  url: https://academy.claude.com/courses/claude-101
+  creator: Anthropic
+  annotation: Thirteen lessons and one quiz taking about 2.5 hours to complete, marked free to access
+    in the course page's structured data, which gives students a first structured pass at working with
+    Claude.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: The Claude 101 course page's structured data marks the course as free to access.
+    source_url: https://academy.claude.com/courses/claude-101
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: '"isAccessibleForFree":true,"offers":[{"@type":"Offer","category":"Free"}]'
+  - text: Claude 101 consists of 13 lessons and one quiz.
+    source_url: https://academy.claude.com/courses/claude-101
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Show course lessons. Claude 101 — 13 lessons · 1 quiz
+  - text: Claude 101 takes about 2.5 hours to complete.
+    source_url: https://academy.claude.com/courses/claude-101
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: 2.5 hr
+  url_check:
+    status: 200
+    final_url: https://academy.claude.com/courses/claude-101
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Anthropic Claude courses free prompting course site:anthropic.com'
+  skeptic:
+    verdict: Signed
+    reason: The page's JSON-LD Course block carries isAccessibleForFree true with a Free offer, and the
+      page itself displays the "13 lessons · 1 quiz" and "2.5 hr" badges the claims cite.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: deeplearning-ai-chatgpt-prompt-engineering
+  type: course
+  title: ChatGPT Prompt Engineering for Developers
+  url: https://www.deeplearning.ai/courses/chatgpt-prompt-eng/
+  creator: DeepLearning.AI (with OpenAI)
+  annotation: Nine video lessons on effective prompting and on using large language models to summarize,
+    infer, transform, and expand text, free for a limited time during the learning platform beta.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Course access to ChatGPT Prompt Engineering for Developers is free for a limited time during
+      the DeepLearning.AI learning platform beta.
+    source_url: https://www.deeplearning.ai/courses/chatgpt-prompt-eng/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Course access is free for a limited time during the DeepLearning.AI learning platform beta!
+  - text: The course consists of 9 video lessons.
+    source_url: https://www.deeplearning.ai/courses/chatgpt-prompt-eng/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: 9 Video Lessons
+  - text: The course teaches effective prompting and how to use LLMs for summarizing, inferring, transforming,
+      and expanding text.
+    source_url: https://www.deeplearning.ai/courses/chatgpt-prompt-eng/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Summarizing ... Inferring ... Transforming text ... Expanding (e.g., automatically writing
+      emails)
+  url_check:
+    status: 200
+    final_url: https://www.deeplearning.ai/courses/chatgpt-prompt-eng
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: DeepLearning.AI short courses free prompt engineering'
+  skeptic:
+    verdict: Signed
+    reason: DeepLearning.AI's own course page states verbatim that access "is free for a limited time
+      during the DeepLearning.AI learning platform beta", lists "9 Video Lessons", and names the four
+      task types the third claim describes.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: microsoft-generative-ai-for-beginners
+  type: course
+  title: Generative AI for Beginners
+  url: https://github.com/microsoft/generative-ai-for-beginners
+  creator: Microsoft Cloud Advocates
+  annotation: Twenty-one lessons on building generative AI applications, each covering its own topic and
+    open to study in any order, beginning with what generative AI is and how large language models work.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: The course consists of 21 lessons on building generative AI applications, created by Microsoft
+      Cloud Advocates.
+    source_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/README.md
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: 21 lessons teaching everything you need to know to start building Generative AI applications
+  - text: Each of the 21 lessons covers its own topic and can be studied in any order.
+    source_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/README.md
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Each lesson covers its own topic so start wherever you like!
+  - text: The first lesson explains what generative AI is and how large language models work.
+    source_url: https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/main/README.md
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Introduction to Generative AI and LLMs ... Understanding what Generative AI is and how Large
+      Language Models (LLMs) work
+  url_check:
+    status: 200
+    final_url: https://github.com/microsoft/generative-ai-for-beginners
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Microsoft Generative AI for Beginners GitHub course free'
+  skeptic:
+    verdict: Signed
+    reason: The repository's own README states the 21-lesson count, the Microsoft Cloud Advocates authorship,
+      the any-order study note, and the Lesson 1 topic that the three claims assert.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: openai-academy-courses
+  type: course
+  title: OpenAI Academy
+  url: https://academy.openai.com/pages/courses
+  creator: OpenAI
+  annotation: Sign-up is free and open to anyone, and the courses teach practical AI skills through hands-on
+    learning about how AI works and how to build agents and workflows, with course completion certificates
+    available.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Sign-up for OpenAI Academy, which hosts the courses, is free and open to anyone.
+    source_url: https://academy.openai.com/pages/courses
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Join OpenAI Academy for full access to content and events. Sign-up is free and open to all.
+  - text: OpenAI Academy courses teach practical AI skills through hands-on learning about how AI works
+      and how to build agents and workflows.
+    source_url: https://academy.openai.com/pages/courses
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: OpenAI Academy courses help people build practical AI skills through hands-on learning to understand
+      how AI works, and how to create agents and workflows.
+  - text: Learners can earn OpenAI Course Completion Certificates.
+    source_url: https://academy.openai.com/pages/courses
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Earn your OpenAI Course Completion Certificates
+  url_check:
+    status: 200
+    final_url: https://academy.openai.com/pages/courses
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: OpenAI Academy free courses ChatGPT for business'
+  skeptic:
+    verdict: Signed
+    reason: All three claims are supported by OpenAI's own academy.openai.com courses page, including
+      the verbatim sign-up line "Sign-up is free and open to all" and the on-page heading "Earn your OpenAI
+      Course Completion Certificates".
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: claude-prompt-engineering-best-practices
+  type: reading
+  title: Best Practices for Prompt Engineering for 2026 (Claude)
+  url: https://claude.com/blog/best-practices-for-prompt-engineering
+  creator: Anthropic
+  annotation: Guidance on telling Claude exactly what output is wanted, stating what that output should
+    include rather than only what task to perform, and asking explicitly when a full and detailed answer
+    is needed.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Anthropic's guide advises telling Claude exactly what output is wanted, including asking explicitly
+      for comprehensive output.
+    source_url: https://claude.com/blog/best-practices-for-prompt-engineering
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Tell the model exactly what you want to see. If you want comprehensive output, ask for it.
+  - text: The guide advises stating what the output should include, not just what task to perform.
+    source_url: https://claude.com/blog/best-practices-for-prompt-engineering
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: State what you want the output to include, not just what to work on.
+  url_check:
+    status: 200
+    final_url: https://claude.com/blog/best-practices-for-prompt-engineering
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Anthropic prompt engineering guide official documentation'
+  skeptic:
+    verdict: Signed
+    reason: Both claims are quoted verbatim from Anthropic's own claude.com blog post, published November
+      10, 2025.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: deeplearning-ai-the-batch
+  type: reading
+  title: The Batch
+  url: https://www.deeplearning.ai/the-batch/
+  creator: DeepLearning.AI
+  annotation: A publication covering what matters in AI right now, delivering weekly AI news and insights
+    by email to students who prefer an edited summary over a continuous feed.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: The Batch is DeepLearning.AI's publication covering what matters in AI right now.
+    source_url: https://www.deeplearning.ai/the-batch/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: The Batch — weekly AI news and insights from DeepLearning.AI. What matters in AI right now.
+  - text: The Batch delivers weekly AI news and insights to subscribers by email.
+    source_url: https://www.deeplearning.ai/the-batch/
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Subscribe to The Batch ... Stay updated with weekly AI News and Insights delivered to your
+      inbox
+  url_check:
+    status: 200
+    final_url: https://www.deeplearning.ai/the-batch
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: best free AI newsletter 2026 for business students explains how AI tools work'
+  skeptic:
+    verdict: Signed
+    reason: deeplearning.ai/the-batch is DeepLearning.AI's own page, carries the "What Matters in AI Right
+      Now" headline and the weekly-email subscribe text, and its newest issue is dated four days before
+      today.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: google-gemini-workspace-prompting-guide-101
+  type: reading
+  title: 'Prompting Guide 101: Gemini for Google Workspace (October 2024 edition)'
+  url: https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
+  creator: Google Workspace
+  annotation: Advice on writing prompts in natural language as complete sentences addressed to another
+    person, noting that the most fruitful prompts average around 21 words of relevant context while typical
+    attempts run under nine.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: Google reports that the most fruitful prompts average around 21 words of relevant context, while
+      the prompts people typically try are under nine words.
+    source_url: https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: the most fruitful prompts average around 21 words with relevant context, yet the prompts people
+      try are usually less than nine words.
+  - text: The guide advises writing prompts in natural language, as complete sentences addressed to another
+      person.
+    source_url: https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Use natural language. Write as if you're speaking to another person. Express complete thoughts
+      in full sentences.
+  url_check:
+    status: 200
+    final_url: https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: Google "prompting guide 101" whitepaper free pdf'
+  skeptic:
+    verdict: Signed
+    reason: Both claims are quoted verbatim from the PDF hosted on Google's own services.google.com, whose
+      cover reads 'October 2024 edition'.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null
+- id: tldr-ai
+  type: reading
+  title: TLDR AI
+  url: https://tldr.tech/ai
+  creator: TLDR
+  annotation: A free daily email sent every weekday covering the most interesting AI stories and breakthroughs,
+    which gives students a short regular scan of developments at no cost.
+  modules: []
+  status: active
+  first_added: '2026-09-07'
+  last_verified: '2026-09-07'
+  retired: null
+  claims:
+  - text: TLDR AI delivers a free daily email of the most interesting AI stories and breakthroughs.
+    source_url: https://tldr.tech/ai
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: Get the most interesting AI stories and breakthroughs delivered in a free daily email.
+  - text: TLDR AI's newsletter sends every weekday.
+    source_url: https://tldr.tech/ai
+    verdict: Supported
+    checked: '2026-09-07'
+    expires: null
+    quote: TLDR AI is a free daily newsletter covering AI news, research, and tools in a 5-minute read.
+      ... it sends every weekday.
+  url_check:
+    status: 200
+    final_url: https://tldr.tech/ai
+    checked: '2026-09-07'
+  researcher:
+    model: sonnet
+    date: '2026-09-07'
+    origin: 'web search: "Ben''s Bites" OR "TLDR AI" newsletter free daily AI news primary site'
+  skeptic:
+    verdict: Signed
+    reason: tldr.tech/ai is TLDR's own signup page and states verbatim both the free daily email framing
+      and that the newsletter sends every weekday.
+    model: opus
+    date: '2026-09-07'
+  owner_decision: null

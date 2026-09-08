@@ -1,0 +1,64 @@
+site_name: AI Resources for MSBA Students
+site_description: A verified, periodically refreshed guide to learning about AI for business analytics students
+site_author: Nick Freeman
+site_url: https://nkfreeman-teaching.github.io/ai-resources/
+
+repo_url: https://github.com/nkfreeman-teaching/ai-resources
+repo_name: nkfreeman-teaching/ai-resources
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Learning Path:
+    - Overview: path/index.md
+    - "1. Agentic Tools and Student Offers": path/module-01.md
+  - Catalog:
+    - Podcasts: catalog/podcasts.md
+    - People and Newsletters: catalog/people.md
+    - Tools with Student Offers: catalog/tools.md
+    - Courses: catalog/courses.md
+    - Readings: catalog/readings.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search

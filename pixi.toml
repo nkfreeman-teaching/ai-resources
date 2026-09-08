@@ -1,0 +1,21 @@
+[workspace]
+name = "ai-resources"
+version = "0.1.0"
+description = "AI learning resources for MSBA students (MkDocs site + verified resource ledger)"
+authors = ["Nick Freeman <nick.freeman524@gmail.com>"]
+channels = ["conda-forge"]
+platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
+
+[dependencies]
+python = ">=3.12"
+mkdocs = ">=1.6"
+mkdocs-material = ">=9.5"
+pyyaml = ">=6.0"
+httpx = ">=0.27"
+
+[tasks]
+serve = { cmd = "mkdocs serve", description = "Serve the site locally with live reload (http://127.0.0.1:8000)" }
+build = { cmd = "mkdocs build --strict", description = "Build the static site (strict: fails on broken links/nav)" }
+render = { cmd = "python scripts/render.py", description = "Rewrite the generated resource blocks in docs/ from resources.yaml" }
+check = { cmd = "python scripts/render.py --check && mkdocs build --strict", description = "Fail if any generated block is stale or unrenderable, then build strict" }
+check-urls = { cmd = "python scripts/check_urls.py", description = "Liveness check: pixi run check-urls --in <urls.txt> --out <result.json>" }
